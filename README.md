@@ -1,2 +1,3 @@
-# ExerciciosUri_C
-Exercícios de Lógica de Programação na Linguagem C
+# Exercicios Uri Linguagem C
+
+Exercícios de Lógica de Programação resolvidos na Linguagem C da plataforma URI(atual BeeCrond).
